@@ -1,0 +1,26 @@
+app:
+  name: healthcare_appeals_decisioning
+  version: 0.1.0
+
+models:
+  reasoning_llm:
+    provider: groq
+    primary_model: llama-3.3-70b-versatile
+    fallback_model: llama-3.1-8b-instant
+    temperature: 0
+    max_tokens: 1024
+
+decision:
+  approval_keywords:
+    - "meets criteria"
+    - "medically necessary"
+  escalation_urgency: high
+
+features:
+  enable_multimodal: true
+  enable_audit_logging: true
+  enable_annotations_check: false
+
+paths:
+  data_dir: data
+  output_dir: outputs

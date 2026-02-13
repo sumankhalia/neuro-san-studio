@@ -1,0 +1,18 @@
+{
+  "appeal_001.pdf": {
+    "document_type": "appeal_letter",
+    "key_topics": ["coverage denial", "completed therapy"]
+  },
+  "appeal_002.pdf": {
+    "document_type": "appeal_letter",
+    "key_topics": ["urgent pain escalation"]
+  },
+  "discharge_summary_001.pdf": {
+    "document_type": "medical_report",
+    "key_topics": ["physiotherapy completed"]
+  },
+  "discharge_summary_002.pdf": {
+    "document_type": "medical_report",
+    "key_topics": ["surgery recommended"]
+  }
+}

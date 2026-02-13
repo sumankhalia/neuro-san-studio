@@ -1,0 +1,17 @@
+{
+  "case_id": "HC-002",
+  "appeal_reason": "Denied due to insufficient conservative treatment duration",
+  "documents": {
+    "appeal_letter": "documents/appeal_letters/appeal_002.pdf",
+    "medical_report": "documents/medical_reports/discharge_summary_002.pdf",
+    "policy": [
+      "documents/policies/cms_guideline_excerpt.pdf",
+      "documents/policies/insurance_policy_excerpt.pdf"
+    ]
+  },
+  "images": [
+    "images/radiology/mri_scan_002.jpg"
+  ],
+  "requested_procedure": "MRI",
+  "urgency": "high"
+}

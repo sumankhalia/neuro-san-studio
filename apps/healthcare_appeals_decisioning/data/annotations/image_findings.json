@@ -1,0 +1,10 @@
+{
+  "mri_scan_001.jpg": {
+    "suspected_conditions": ["Osteoarthritis"],
+    "confidence": 0.78
+  },
+  "mri_scan_002.jpg": {
+    "suspected_conditions": ["Meniscal tear"],
+    "confidence": 0.81
+  }
+}
