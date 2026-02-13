@@ -1,0 +1,72 @@
+[
+  {
+    "txn_id": "TXN10001",
+    "customer_id": "CUST001",
+    "amount": 245000,
+    "currency": "INR",
+    "country": "IN",
+    "timestamp": "2026-02-10T10:15:00",
+    "channel": "IMPS",
+    "device_risk": 0.82,
+    "velocity_score": 0.91
+  },
+  {
+    "txn_id": "TXN10002",
+    "customer_id": "CUST001",
+    "amount": 248500,
+    "currency": "INR",
+    "country": "IN",
+    "timestamp": "2026-02-10T10:22:00",
+    "channel": "IMPS",
+    "device_risk": 0.85,
+    "velocity_score": 0.94
+  },
+
+  {
+    "txn_id": "TXN20001",
+    "customer_id": "CUST002",
+    "amount": 1800,
+    "currency": "INR",
+    "country": "IN",
+    "timestamp": "2026-02-10T09:10:00",
+    "channel": "UPI",
+    "device_risk": 0.05,
+    "velocity_score": 0.04
+  },
+
+  {
+    "txn_id": "TXN30001",
+    "customer_id": "CUST003",
+    "amount": 9500,
+    "currency": "INR",
+    "country": "IN",
+    "timestamp": "2026-02-09T18:30:00",
+    "channel": "CARD",
+    "device_risk": 0.12,
+    "velocity_score": 0.15
+  },
+
+  {
+    "txn_id": "TXN40001",
+    "customer_id": "CUST005",
+    "amount": 820000,
+    "currency": "INR",
+    "country": "AE",
+    "timestamp": "2026-02-10T11:40:00",
+    "channel": "WIRE",
+    "device_risk": 0.61,
+    "velocity_score": 0.72
+  },
+
+  {
+    "txn_id": "TXN50001",
+    "customer_id": "CUST006",
+    "amount": 125000,
+    "currency": "INR",
+    "country": "IN",
+    "timestamp": "2026-02-10T13:15:00",
+    "channel": "NEFT",
+    "device_risk": 0.33,
+    "velocity_score": 0.29
+  }
+]

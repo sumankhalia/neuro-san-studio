@@ -1,0 +1,14 @@
+{
+  "high_risk_threshold": 7,
+  "medium_risk_threshold": 4,
+  "confidence_weighting": {
+    "anomaly": 0.4,
+    "network": 0.3,
+    "kyc": 0.3
+  },
+  "policy_rules": [
+    "Escalate High Risk Customers",
+    "Enhanced Due Diligence for Cross Border Risk",
+    "SAR Filing for Suspicious Patterns"
+  ]
+}

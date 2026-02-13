@@ -1,0 +1,22 @@
+{
+    "case_id": "FC-001",
+    "generated_at": "2026-02-13T10:49:26.276977",
+    "risk_classifications": {
+        "CUST001": "HIGH_RISK",
+        "CUST002": "LOW_RISK",
+        "CUST003": "LOW_RISK",
+        "CUST004": "LOW_RISK"
+    },
+    "portfolio_decisions": {
+        "CUST001": "ESCALATE_FOR_INVESTIGATION",
+        "CUST002": "ALLOW",
+        "CUST003": "ALLOW",
+        "CUST004": "ALLOW"
+    },
+    "risk_scores": {
+        "CUST001": 10,
+        "CUST002": 0,
+        "CUST003": 0,
+        "CUST004": 0
+    }
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "customer_id": "CUST001",
+    "name": "Rohit Mehra",
+    "country": "IN",
+    "kyc_risk": 0.78,
+    "segment": "High Net Worth",
+    "industry": "Import Export"
+  },
+  {
+    "customer_id": "CUST002",
+    "name": "Anita Sharma",
+    "country": "IN",
+    "kyc_risk": 0.12,
+    "segment": "Retail",
+    "industry": "Salaried"
+  },
+  {
+    "customer_id": "CUST003",
+    "name": "Karan Patel",
+    "country": "IN",
+    "kyc_risk": 0.18,
+    "segment": "Retail",
+    "industry": "Small Business"
+  },
+  {
+    "customer_id": "CUST004",
+    "name": "Neha Verma",
+    "country": "IN",
+    "kyc_risk": 0.09,
+    "segment": "Retail",
+    "industry": "Salaried"
+  },
+  {
+    "customer_id": "CUST005",
+    "name": "Amit Khanna",
+    "country": "AE",
+    "kyc_risk": 0.66,
+    "segment": "NRI",
+    "industry": "Consulting"
+  },
+  {
+    "customer_id": "CUST006",
+    "name": "Sanjay Iyer",
+    "country": "IN",
+    "kyc_risk": 0.41,
+    "segment": "SME",
+    "industry": "Logistics"
+  }
+]

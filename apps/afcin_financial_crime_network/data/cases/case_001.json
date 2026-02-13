@@ -1,0 +1,17 @@
+{
+  "case_id": "FC-001",
+
+  "customers": [
+    "CUST001",
+    "CUST002",
+    "CUST003",
+    "CUST004",
+    "CUST005",
+    "CUST006"
+  ],
+
+  "linked_transactions": "transactions/transactions_001.json",
+  "customer_profile": "customers/customers_001.json",
+  "alerts": "alerts/alerts_001.json",
+  "policies": "policies/financial_crime_policy.json"
+}

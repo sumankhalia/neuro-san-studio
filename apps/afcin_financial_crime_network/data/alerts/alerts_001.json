@@ -1,0 +1,20 @@
+[
+  {
+    "alert_id": "ALT001",
+    "customer_id": "CUST001",
+    "alert_type": "Velocity Spike",
+    "severity": "HIGH"
+  },
+  {
+    "alert_id": "ALT002",
+    "customer_id": "CUST005",
+    "alert_type": "Cross Border Pattern",
+    "severity": "MEDIUM"
+  },
+  {
+    "alert_id": "ALT003",
+    "customer_id": "CUST006",
+    "alert_type": "Unusual Transaction Size",
+    "severity": "LOW"
+  }
+]
